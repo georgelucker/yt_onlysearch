@@ -1,0 +1,22 @@
+/* Скрывает весь контент на главной странице, кроме строки поиска */
+ytd-browse:not([page-subtype="search"]) #contents,
+ytd-rich-grid-renderer,
+ytd-mini-guide-renderer,
+ytd-guide-renderer,
+ytd-masthead #end,
+#chips-wrapper,
+#secondary,
+ytd-merch-shelf-renderer,
+ytd-rich-section-renderer {
+    display: none !important;
+}
+
+/* Центрирование строки поиска */
+#center {
+    margin: auto !important;
+}
+
+/* Скрывает комментарии под видео */
+ytd-comments {
+    display: none !important;
+}

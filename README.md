@@ -19,9 +19,8 @@
 
 | Браузер | Ссылка |
 |--------|--------|
-| Chrome / Chromium / Яндекс.Браузер | [Установить](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) |
 | Firefox | [Установить](https://addons.mozilla.org/firefox/addon/styl-us/) |
-| Opera | [Установить](https://addons.opera.com/extensions/details/stylus/) |
+| Chrome / Chromium / Яндекс.Браузер | [Установить](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) |
 
 ---
 
@@ -29,9 +28,9 @@
 
 #### Способ 1: Импорт из файла
 
-1. Скачайте файл `youtube-clean.user.css` из этого репозитория.
+1. Скачайте файл `style.user.css` из этого репозитория.
 2. Нажмите на значок Stylus в браузере → «Управление».
-3. Нажмите «Импорт» и выберите файл `youtube-clean.user.css`.
+3. Нажмите «Импорт» и выберите файл `style.user.css`.
 
 #### Способ 2: Вставка вручную
 
